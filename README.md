@@ -82,3 +82,7 @@ Use Eclipse Maven to execute the tests:
 
 This framework provides a structured approach to UI automation using Selenium WebDriver, making it scalable and easy to maintain.
 
+## Execution Video
+I've added a professional reference to the execution video
+Open this link to see the execution ( https://sarahussien2.github.io/Foodics_AutomationUI_SeleniumJava/AutomationUITask.mp4 )
+
